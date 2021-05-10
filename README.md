@@ -9,16 +9,16 @@ for Plastico Pvt Ltd <br /><br />
 
 _Login_<br />
 
-![Homepage](https://github.com/sahilachhava/MaalDeAdmin/blob/main/screenshots/login.png)<br />
+![Homepage](https://github.com/sahilachhava/Plastico/blob/main/screenshots/login.png)<br />
 
 _Categories_<br />
 
-![Homepage](https://github.com/sahilachhava/MaalDeAdmin/blob/main/screenshots/category.png)<br />
+![Homepage](https://github.com/sahilachhava/Plastico/blob/main/screenshots/category.png)<br />
 
 _Brands_<br />
 
-![Homepage](https://github.com/sahilachhava/MaalDeAdmin/blob/main/screenshots/brands.png)<br />
+![Homepage](https://github.com/sahilachhava/Plastico/blob/main/screenshots/brands.png)<br />
 
 _User Details_<br />
 
-![Homepage](https://github.com/sahilachhava/MaalDeAdmin/blob/main/screenshots/users.png)<br />
+![Homepage](https://github.com/sahilachhava/Plastico/blob/main/screenshots/users.png)<br />
