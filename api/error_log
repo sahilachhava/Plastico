@@ -1,0 +1,23 @@
+[05-Jul-2019 11:01:18 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/activeme/public_html/plastico/api/login.php on line 70
+[05-Jul-2019 11:01:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/activeme/public_html/plastico/api/login.php on line 70
+[05-Jul-2019 11:01:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/activeme/public_html/plastico/api/login.php on line 71
+[05-Jul-2019 11:01:18 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/activeme/public_html/plastico/api/login.php on line 72
+[05-Jul-2019 11:01:21 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/activeme/public_html/plastico/api/login.php on line 70
+[05-Jul-2019 11:01:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/activeme/public_html/plastico/api/login.php on line 70
+[05-Jul-2019 11:01:21 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/activeme/public_html/plastico/api/login.php on line 71
+[05-Jul-2019 11:01:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/activeme/public_html/plastico/api/login.php on line 72
+[11-Jul-2019 19:54:21 Etc/GMT] PHP Notice:  Undefined index: fname in /home/activeme/public_html/plastico/api/regis.php on line 6
+[11-Jul-2019 19:54:21 Etc/GMT] PHP Notice:  Undefined index: fadd in /home/activeme/public_html/plastico/api/regis.php on line 10
+[11-Jul-2019 19:54:21 Etc/GMT] PHP Notice:  Undefined index: pin in /home/activeme/public_html/plastico/api/regis.php on line 11
+[11-Jul-2019 19:54:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/activeme/public_html/plastico/api/regis.php on line 16
+[11-Jul-2019 19:54:37 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/activeme/public_html/plastico/api/login.php on line 70
+[11-Jul-2019 19:54:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/activeme/public_html/plastico/api/login.php on line 70
+[11-Jul-2019 19:54:37 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/activeme/public_html/plastico/api/login.php on line 71
+[11-Jul-2019 19:54:37 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/activeme/public_html/plastico/api/login.php on line 72
+[12-Jul-2019 12:54:22 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/activeme/public_html/plastico/api/login.php on line 45
+[12-Jul-2019 12:54:22 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/activeme/public_html/plastico/api/login.php on line 45
+[13-Jul-2019 06:34:19 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/activeme/public_html/plastico/dbconnect.php on line 2
+[13-Jul-2019 06:34:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/activeme/public_html/plastico/api/login.php on line 44
+[13-Jul-2019 06:34:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/activeme/public_html/plastico/api/login.php on line 45
+[13-Jul-2019 06:34:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/activeme/public_html/plastico/api/login.php on line 48
+[13-Jul-2019 06:34:19 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/activeme/public_html/plastico/api/login.php on line 48
